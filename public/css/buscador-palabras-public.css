@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#buscador-palabras {}
+
+#buscador-palabras .buscador-palabras-form {
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+#buscador-palabras .buscador-palabras-resultados {}
+
+#buscador-palabras .buscador-palabras-grupo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* #buscador-palabras .buscador-palabras-titulo {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+#buscador-palabras .buscador-palabras-texto {
+  margin: 0;
+  font-size: 14px;
+} */
